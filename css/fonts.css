@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Poppins_bold',sans-serif;
+    src: url("../fonts/Poppins-Bold.eot");
+    src: url("../fonts/Poppins-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Poppins-Bold.woff2") format("woff2"), url("../fonts/Poppins-Bold.woff") format("woff"), url("../fonts/Poppins-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Poppins_regular',sans-serif;
+    src: url("../fonts/Poppins-Regular.eot");
+    src: url("../fonts/Poppins-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Poppins-Regular.woff2") format("woff2"), url("../fonts/Poppins-Regular.woff") format("woff"), url("../fonts/Poppins-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Lobster';
+    src: url("../fonts/Lobster-Regular.eot");
+    src: url("../fonts/Lobster-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Lobster-Regular.woff2") format("woff2"), url("../fonts/Lobster-Regular.woff") format("woff"), url("../fonts/Lobster-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+
+   
